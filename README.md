@@ -54,6 +54,9 @@ Add animations using advanced libraries
 Improve accessibility and SEO
 🤝 Contributing
 
+OUTPUT:
+<img width="1906" height="877" alt="Image" src="https://github.com/user-attachments/assets/ffca361e-6eba-4846-8862-e532cb86c851" />
+
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repository and improve it.
 
